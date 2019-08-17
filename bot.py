@@ -11,4 +11,4 @@ async def on_ready():
 async def ping(ctx):
     await ctx.send(F'{round(bot.latency*1000)}ms')
 
-bot.run('NTY5NTA0MjY5MjI5NjIxMjYw.XUpdPQ.sEMRdRXpYUTAMJGuxC1yCOVh-fQ')
+bot.run('你的機器人Token')
